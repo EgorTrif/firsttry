@@ -50,14 +50,6 @@ td, th {
     background: yellow;
     padding: 5px;
 }
-.mon {
-    width: 33.3333333333%;
-  float: left;
-}
-.op {
-    width: 66.6666666667%;
-    float: left;
-}
 .game {
     margin-left: 30px;
 }
