@@ -1,0 +1,80 @@
+* {
+    font-family: 'Playfair Display', serif;
+
+}
+body{
+    background-image: url(./img/depositphotos_37962241-stock-illustration-seamless-background-with-yellow-bananas.jpg);
+    background-color: pink;
+}
+h1 {
+    text-align: center;
+    background-color: orangered;
+    border-radius: 100px;
+    margin: 0px 180px 0px 180px;
+}
+.head {
+    text-align: center;
+    background-color: rgba(255, 255, 0, 0.6);
+    border: orangered 3px solid;
+    border-radius: 20px;
+    margin: 3px 180px 3px 180px;
+}
+ol {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+li {
+    display: inline-block;
+}
+
+h2 {
+    border-bottom: 1px solid red;
+    margin-top: 1em;
+}
+h3 {
+    font-weight: 900;
+}
+p {
+    font-size: 110%;
+    font-weight: 900;
+}  
+table {
+    background-color: chocolate;
+    color:red;
+    border-spacing: 3px;
+    margin-right: 200px;
+    float: left;
+}
+td, th {
+    background: yellow;
+    padding: 5px;
+}
+.mon {
+    width: 33.3333333333%;
+  float: left;
+}
+.op {
+    width: 66.6666666667%;
+    float: left;
+}
+.game {
+    margin-left: 30px;
+}
+.monke{
+    margin-left: 290px;
+    margin-top: -80px;
+    width: 800px;
+}
+.border {
+    border: solid orangered 0.5px;
+    padding: 15px 15px 15px 15px;
+    margin: 10px 180px 5px 180px;
+    background-color: rgba(219, 112, 147, 0.6);
+    box-sizing: border-box;
+    overflow: auto;
+}
+.black {
+    color: black;
+    font-weight: 900;
+}
